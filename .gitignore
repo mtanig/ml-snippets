@@ -1,3 +1,9 @@
+cifar-10
+mobilenet_v3_large_100_224_feature_vector_v5
+*.tar.gz
+*.onnx
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
