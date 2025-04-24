@@ -1,3 +1,10 @@
+*.zip
+*.csv
+*.log
+*.h5
+*.vec
+MINDsmall_dev
+MINDsmall_train
 cifar-10
 mobilenet_v3_large_100_224_feature_vector_v5
 *.tar.gz
